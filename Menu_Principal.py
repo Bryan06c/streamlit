@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 
-st.title("👋 Hello, Bryan utilise Streamlit!")
+st.title("👋 Hello, ce-ci est un projet Streamlit créer par Bryan!")
 
 
 st.header("Bienvenue dans ma première application Streamlit")
